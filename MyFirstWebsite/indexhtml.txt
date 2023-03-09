@@ -1,5 +1,19 @@
+<IDOCTYPE html>
+
 <html>
 
-insert text here
+<head>
 
-</html> 
+<title>How to read sheet music<title>
+
+</head>
+
+<body>
+
+<h2>How to read sheet music</h2>
+
+<h4>What are Notes</h4>
+
+<p>Notes are the basic building blocks of music. There are 12 notes in western music theory which either ascend or descend</p>
+
+<p>This video will help you learn how to read notes.<a href="https://www.youtube.com/watch?v=ZN41d7Txcq0&t=121s">a helpful video</a>. </p>
