@@ -13,3 +13,21 @@ width: 800px;
 margin-right: auto; 
 margin-left: auto;
 }
+
+#Footer {
+	width: 802px;
+	margin-right: auto;
+	margin-left: auto;
+	height:50px;
+	border: 1px solid #fff;
+}
+
+#FooterLeft {
+	float:left;
+	width:399px; /*49.5%*/
+	height:50px;
+	border: 1px solid green;
+}
+
+
+
