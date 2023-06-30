@@ -1,0 +1,18 @@
+.emo {
+	width: 1000px;
+}
+
+.caterpillar {
+	height: 1000px;
+}
+
+body {
+	background-image: linear-gradient (rgba(255,189,163,255), rgba(172,147,201,255))
+}
+
+div {
+	padding-top: 30px;
+	padding-right: 50px;
+	padding-bottom: 50px;
+	padding-left: 50px;
+}
